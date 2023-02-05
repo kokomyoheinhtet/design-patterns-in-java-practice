@@ -10,7 +10,7 @@ public class Demo {
         System.out.println(journal);
 
         Persistence persistence = new Persistence();
-        String filename = "./firstJ.txt";
+        String filename = "./tmp/firstJ.txt";
         persistence.saveToFile(journal, filename, true);
     }
 }
