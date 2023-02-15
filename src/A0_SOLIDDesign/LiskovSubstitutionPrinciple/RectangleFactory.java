@@ -1,4 +1,4 @@
-package LiskovSubstitutionPrinciple;
+package A0_SOLIDDesign.LiskovSubstitutionPrinciple;
 
 public class RectangleFactory {
     public static Rectangle newSquare(int side) {

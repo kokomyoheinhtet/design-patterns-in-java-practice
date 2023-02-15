@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package A0_SOLIDDesign.OpenClosedPrinciple;
 
 import java.util.List;
 

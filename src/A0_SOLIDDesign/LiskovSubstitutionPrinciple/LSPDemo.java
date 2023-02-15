@@ -1,4 +1,4 @@
-package LiskovSubstitutionPrinciple;
+package A0_SOLIDDesign.LiskovSubstitutionPrinciple;
 
 public class LSPDemo {
     public static void main(String[] args) {

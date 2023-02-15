@@ -1,4 +1,4 @@
-package InterfaceSegregationPrinciple;
+package A0_SOLIDDesign.InterfaceSegregationPrinciple;
 
 public class ISPDemo {
 }

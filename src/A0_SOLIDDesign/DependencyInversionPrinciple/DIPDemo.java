@@ -1,4 +1,4 @@
-package DependencyInversionPrinciple;
+package A0_SOLIDDesign.DependencyInversionPrinciple;
 
 import java.util.ArrayList;
 import java.util.List;

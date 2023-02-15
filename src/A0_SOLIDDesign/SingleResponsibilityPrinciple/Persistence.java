@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package A0_SOLIDDesign.SingleResponsibilityPrinciple;
 
 import java.io.File;
 import java.io.FileNotFoundException;

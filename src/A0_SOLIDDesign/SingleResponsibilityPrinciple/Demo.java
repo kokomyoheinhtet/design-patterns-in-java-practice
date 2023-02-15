@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package A0_SOLIDDesign.SingleResponsibilityPrinciple;
 
 
 public class Demo {

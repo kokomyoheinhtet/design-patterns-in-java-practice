@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package A0_SOLIDDesign.OpenClosedPrinciple;
 
 public class AndSpecification<T> implements Specification<T> {
 

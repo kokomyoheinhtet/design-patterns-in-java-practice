@@ -1,4 +1,4 @@
-package OpenClosedPrinciple;
+package A0_SOLIDDesign.OpenClosedPrinciple;
 
 public class SizeSpecification implements Specification<Product> {
     private final Size size;

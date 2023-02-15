@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package A0_SOLIDDesign.SingleResponsibilityPrinciple;
 
 import java.util.ArrayList;
 import java.util.List;

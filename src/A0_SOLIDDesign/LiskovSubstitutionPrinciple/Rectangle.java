@@ -1,4 +1,4 @@
-package LiskovSubstitutionPrinciple;
+package A0_SOLIDDesign.LiskovSubstitutionPrinciple;
 
 public class Rectangle {
     protected int width, height;
