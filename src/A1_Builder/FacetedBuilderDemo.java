@@ -1,8 +1,5 @@
 package A1_Builder;
 
-public class FacetedBuilderDemo {
-}
-
 class Person {
     public String streetAddress, postcode, city;
 
@@ -80,7 +77,7 @@ class PersonJobBuilder extends PersonBuilder {
     }
 }
 
-class Demo {
+class FacetedBuilderDemo {
     public static void main(String[] args) {
         PersonBuilder pb = new PersonBuilder();
         Person person = pb
