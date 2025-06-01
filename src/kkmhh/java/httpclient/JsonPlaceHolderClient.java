@@ -1,4 +1,4 @@
-package kkmhh.client.http;
+package kkmhh.java.httpclient;
 
 import java.net.URI;
 import java.net.http.HttpClient;

@@ -1,4 +1,4 @@
-package kkmhh.client.http;
+package kkmhh.java.httpclient;
 
 public class JsTwoClient {
     private void trythat(){
